@@ -32,3 +32,22 @@ Thumbs.db
 
 # Git
 .git
+
+# Python cache
+**/__pycache__/
+
+# Pytest
+.pytest_cache/
+
+# Ruff
+.ruff_cache/
+
+# Mypy
+.mypy_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# VS Code workspace
+*.code-workspace
