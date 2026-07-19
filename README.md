@@ -1,3 +1,4 @@
+ HEAD
 <p align="center">
   <img src="assets/banner.png" alt="SECRAIN Banner" width="100%">
 </p>
@@ -32,7 +33,7 @@
 > It remembers your knowledge, organizes your notes, retrieves context intelligently, and assists you using private, on-device AI.
 
 ---
-
+ 5f1c9a267a6d73a962174f15674a1f3bfa9f064e
 
 
 # 🧠 SECRAIN
