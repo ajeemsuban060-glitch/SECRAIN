@@ -1,3 +1,40 @@
+<p align="center">
+  <img src="assets/banner.png" alt="SECRAIN Banner" width="100%">
+</p>
+
+<h1 align="center">🧠 SECRAIN</h1>
+
+<p align="center">
+  <strong>Your Second Brain</strong><br>
+  Local-First AI Productivity & Knowledge Management System
+</p>
+
+<p align="center">
+
+![License](https://img.shields.io/badge/License-MIT-00C853?style=for-the-badge)
+
+![Python](https://img.shields.io/badge/Python-3.13+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+![Ollama](https://img.shields.io/badge/Ollama-Local_AI-black?style=for-the-badge)
+
+</p>
+
+---
+
+> **SECRAIN** is a local-first AI productivity platform designed to become your permanent digital second brain.
+>
+> It remembers your knowledge, organizes your notes, retrieves context intelligently, and assists you using private, on-device AI.
+
+---
+
+
+
 # 🧠 SECRAIN
 
 > **Your Second Brain** --- A local-first AI productivity platform.
